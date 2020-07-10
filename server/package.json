@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "exceljs": "^4.0.1",
+    "express": "^4.17.1",
+    "global": "^4.4.0",
+    "moment": "^2.24.0",
+    "mssql": "6.0.1",
+    "nano": "^8.2.1",
+    "nodemon": "^2.0.2",
+    "winser": "^1.0.3"
+  }
+}
